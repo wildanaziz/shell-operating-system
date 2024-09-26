@@ -204,5 +204,5 @@ scp localfile.txt user@remote:/path/to/destination
 - Linux Command Line Basics
 - GNU Bash Manual
 - Ubuntu Documentation
-
+- Practical Works Module Faculty of Computer Science UB
 
